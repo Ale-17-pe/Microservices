@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/asistencias-services/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/entrenador-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/facturacion-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frontend/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/notificacion-services/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/notificationes-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pagos-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/planes-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usuarios-services/notificationes-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/usuarios-services/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-services/src/main/java" charset="UTF-8" />
+  </component>
+</project>

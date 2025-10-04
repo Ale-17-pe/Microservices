@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/frontend/pom.xml" />
+        <option value="$PROJECT_DIR$/Usuarios-services/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/planes-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pagos-service/pom.xml" />
+        <option value="$PROJECT_DIR$/usuarios-services/notificationes-service/pom.xml" />
+        <option value="$PROJECT_DIR$/notificationes-service/pom.xml" />
+        <option value="$PROJECT_DIR$/noticaciones-services/pom.xml" />
+        <option value="$PROJECT_DIR$/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/web-services/pom.xml" />
+        <option value="$PROJECT_DIR$/web-service/pom.xml" />
+        <option value="$PROJECT_DIR$/notificacion-services/pom.xml" />
+        <option value="$PROJECT_DIR$/asistencias-services/pom.xml" />
+        <option value="$PROJECT_DIR$/entrenador-server/pom.xml" />
+        <option value="$PROJECT_DIR$/facturacion-service/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/frontend/pom.xml" />
+        <option value="$PROJECT_DIR$/notificationes-service/pom.xml" />
+        <option value="$PROJECT_DIR$/web-services/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_24" default="true" project-jdk-name="openjdk-24" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

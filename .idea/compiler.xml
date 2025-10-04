@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api-gateway" />
+        <module name="planes-service" />
+        <module name="notificacion-services" />
+        <module name="plan-service" />
+      </profile>
+      <profile name="Annotation profile for web-service" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.40/lombok-1.18.40.jar" />
+        </processorPath>
+        <module name="Usuarios-services" />
+        <module name="asistencias-services" />
+        <module name="pagos-service" />
+        <module name="entrenador-server" />
+        <module name="facturacion-service" />
+        <module name="planes-services" />
+        <module name="web-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="frontend" target="17" />
+      <module name="microservices" target="1.5" />
+      <module name="notificationes-service" target="17" />
+      <module name="web-services" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Usuarios-services" options="-parameters" />
+      <module name="api-gateway" options="-parameters" />
+      <module name="asistencias-services" options="-parameters" />
+      <module name="entrenador-server" options="-parameters" />
+      <module name="facturacion-service" options="-parameters" />
+      <module name="frontend" options="-parameters" />
+      <module name="notificacion-services" options="-parameters" />
+      <module name="notificationes-service" options="-parameters" />
+      <module name="pagos-service" options="-parameters" />
+      <module name="plan-service" options="-parameters" />
+      <module name="planes-service" options="-parameters" />
+      <module name="web-service" options="-parameters" />
+    </option>
+  </component>
+</project>
