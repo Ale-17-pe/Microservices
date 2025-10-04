@@ -15,8 +15,7 @@ import java.time.LocalDateTime;
 public class Asistencia {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "asistencia_seq")
-    @SequenceGenerator(name = "asistencia_seq", sequenceName = "ASISTENCIA_SEQ",allocationSize = 1)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
     @NotNull(message = "ID de usuario es obligatorio")
